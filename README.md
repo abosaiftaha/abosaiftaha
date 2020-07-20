@@ -1,3 +1,4 @@
+
 ### Hello there 👋, 
  My name is **Ahmad Taha** (you can call me **Taha**), I'm a front-end developer, passionate about designing and developing SaaS products.
 
@@ -23,17 +24,20 @@
 <p align="center">
 <img src="https://img.icons8.com/color/96/000000/git.png" height="50"/>
 <img src="https://img.icons8.com/fluent/96/000000/console.png" height="50"/>
+<img src="https://img.icons8.com/windows/64/000000/node-js.png" height="50"/>
 <img src="https://img.icons8.com/color/96/000000/mongodb.png" height="50"/>
+<img src="https://img.icons8.com/material-two-tone/96/000000/json.png" height="50"/>
 <img src="https://img.icons8.com/color/96/000000/adobe-illustrator.png" height="50"/>
 <img src="https://img.icons8.com/fluent/96/000000/adobe-photoshop.png" height="50"/>
 <img src="https://img.icons8.com/color/96/000000/adobe-xd.png" height="50"/>
-<img src="https://img.icons8.com/windows/96/000000/figma.png" height="50"/>
 </p>
+
+- :dart: My Learning List : **NextJS**, **Magento**, **NestJS**, **GSAP**, **Gatsby**, **Docker**
 
 - 📫 Reach me at **ahmad.khaled.taha@outlook.com** or at :
 <p align="center">
-<a href="https://linkedin.com/in/abosaiftaha" target="blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" height="50"/></a>
-<a href="https://gitlab.com/abosaiftaha" target="blank"><img src="https://img.icons8.com/color/96/000000/gitlab.png" height="50"/></a>
-<a href="https://fb.com/abosaiftaha" target="blank"><img src="https://img.icons8.com/fluent/96/000000/facebook-new.png" height="50"/></a>
-<a href="https://instagram.com/abosaif_taha" target="blank"><img src="https://img.icons8.com/fluent/96/000000/instagram-new.png" height="50"/></a>
+<a href="https://linkedin.com/in/abosaiftaha" target="blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" height="40"/></a>
+<a href="https://gitlab.com/abosaiftaha" target="blank"><img src="https://img.icons8.com/color/96/000000/gitlab.png" height="40"/></a>
+<a href="https://fb.com/abosaiftaha" target="blank"><img src="https://img.icons8.com/fluent/96/000000/facebook-new.png" height="40"/></a>
+<a href="https://instagram.com/abosaif_taha" target="blank"><img src="https://img.icons8.com/fluent/96/000000/instagram-new.png" height="40"/></a>
 </p>
