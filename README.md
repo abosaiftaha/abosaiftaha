@@ -1,7 +1,7 @@
 ### Hello there 👋, 
  My name is **Ahmad Taha** (you can call me **Taha**), I'm a front-end developer, passionate about designing and developing SaaS products.
 
-- 🔭 I’m currently working at [WeTheMakers](https://github.com/wethemakers-dev) , [CodatJO](https://facebook.com/CodatJo)
+- 🔭 I’m currently working at [Netways](https://www.linkedin.com/company/netways) , [CodatJO](https://facebook.com/CodatJo)
 - 💬 About Codat 
 **Codat is an IT Community that aims to improve IT students skills through Free events, hands-on workshops and live streams.**
 
