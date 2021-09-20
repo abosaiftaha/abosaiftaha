@@ -8,18 +8,18 @@
 - 💬 About Codat 
 **Codat is an IT Community that aims to improve IT students skills through Free events, hands-on workshops and live streams**.
 
-- 👨‍💻 Coding With: 
-	 **TypeScript**, **React**, **React Native**.
-	 **JavaScript**, **NextJS**, **Redux**.
-	 **CSS**, **SASS**, **Tailwind**.
-	 **NodeJS**, **ExpressJS**, **MongoDB**.
-	 **GraphQL**, **Rest**, **Git**, **Bash**, **Zsh**.
+- 👨‍💻 Coding  With:
+`TypeScript`, `React`, `React Native`.
+`JavaScript`, `NextJS`, `Redux`.
+`CSS`, `SASS`, `Tailwind`.
+`NodeJS`, `ExpressJS`, `MongoDB`.
+`GraphQL`, `Rest`, `Git`, `Bash`, `Zsh`.
 
-- 🎨 Designing With: 
-	**Adobe illustrator**, **Adobe XD**, **Figma**.
-	
-- 🎯 My Learning List : 
-	**Framer Motion**, **WebGL**, **GSAP**, **Docker**
+- 🎨 Designing  With:
+`Adobe illustrator`, `Adobe XD`, `Figma`.
+
+- 🎯 My  Learning  List :
+`Framer Motion`, `WebGL`, `GSAP`, `Docker`
 
 - 📫 Reach me at **ahmad.khaled.taha@outlook.com** or at :
 <div align="center">
