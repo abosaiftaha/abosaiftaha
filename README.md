@@ -3,7 +3,7 @@
  My name is **Ahmad Taha** (you can call me **Taha**), I'm a front-end developer, passionate about designing and developing SaaS products. 
  **Always avilable for Open-source contributions**.
 
-- 🔭 I’m currently working at [Netways](https://www.linkedin.com/company/netways) , [CodatJO](https://facebook.com/CodatJo)
+- 🔭 I’m currently working at [Majid Al-Futtaim](https://www.linkedin.com/company/majid-al-futtaim) , [CodatJO](https://facebook.com/CodatJo)
 - 🏀 Want to play One-on-One?
 - 💬 About Codat 
 **Codat is an IT Community that aims to improve IT students skills through Free events, hands-on workshops and live streams**.
