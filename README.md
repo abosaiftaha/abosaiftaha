@@ -20,7 +20,7 @@
 `Adobe illustrator`, `Adobe XD`, `Figma`.
 
 - 🎯 My  Learning  List :
-`Framer Motion`, `WebGL`, `GSAP`, `Docker`
+`Framer Motion`, `WebGL`, `GSAP`, `Docker`, `Deno`
 
 - 📫 Reach me at **ahmad.khaled.taha@outlook.com** or at :
 <div align="center">
