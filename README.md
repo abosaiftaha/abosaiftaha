@@ -11,7 +11,7 @@ My name is **Ahmad Taha** (you can call me **Taha**), I'm a front-end developer,
   **Codat is an IT Community that aims to improve IT students skills through Free events, hands-on workshops and live streams**.
 
 - 👨‍💻 Coding With:
-  `TypeScript`, `React`, `React Native`.
+  `TypeScript`, `React`, `React Native`, `Flutter`.
   `JavaScript`, `NextJS`, `Redux`.
   `CSS`, `SASS`, `Tailwind`.
   `NodeJS`, `ExpressJS`, `MongoDB`.
