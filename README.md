@@ -23,7 +23,7 @@ My name is **Ahmad Taha** (you can call me **Taha**), I'm a front-end developer,
 - 🎯 My Learning List :
   `Framer Motion`, `WebGL`, `GSAP`, `Docker`
 
-- 📫 Reach me at **ahmad.khaled.taha@outlook.com** or at :
+- 📫 Reach me at **work@abosaiftaha.com** or at :
 <div align="center">
 <a href="https://linkedin.com/in/abosaiftaha" target="blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" height="40"/></a>
 <a href="https://fb.com/abosaiftaha" target="blank"><img src="https://img.icons8.com/fluent/96/000000/facebook-new.png" height="40"/></a>
