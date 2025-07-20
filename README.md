@@ -1,11 +1,11 @@
-<a  href="https://app.daily.dev/abosaiftaha"><img align="right" src="https://api.daily.dev/devcards/e2de17151de748b0bc7ada33be7f9db5.png?r=2jb" width="400" alt="Ahmad Taha's Dev Card"/></a>
+<a href="https://app.daily.dev/abosaiftaha"><img src="https://api.daily.dev/devcards/v2/68d432988dbd4fe6b01a8c6d065bdf40.png?type=default&r=rrc" width="356" alt="Ahmad Taha's Dev Card"/></a>
 
 ### Hello there 👋,
 
 My name is **Ahmad Taha** (you can call me **Taha**), I'm a front-end developer, passionate about designing and developing SaaS products.
 **Always avilable for Open-source contributions**.
 
-- 🔭 I’m currently working at [Majid Al-Futtaim](https://www.linkedin.com/company/majid-al-futtaim) , [CodatJO](https://facebook.com/CodatJo)
+- 🔭 I’m currently working at [Alinma Bank](https://www.linkedin.com/company/alinma) , [CodatJO](https://facebook.com/CodatJo)
 - 🏀 Want to play One-on-One?
 - 💬 About Codat
   **Codat is an IT Community that aims to improve IT students skills through Free events, hands-on workshops and live streams**.
